@@ -1,4 +1,4 @@
-- Hi, I’m @AllenCH00
+- Hi, I’m Clay
 - I'm interested in the Cybersecurity world and pentesting
 - I'm currently studying to receive an Associates degree in cybersecurity from Sinclair Community College
 
